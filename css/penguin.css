@@ -1,0 +1,9 @@
+body {
+  font-family: Courier New;
+  background-color: rgb(249, 249, 194);
+  text-align: center;
+}
+  
+.penguin {
+  height: 600px;
+}
