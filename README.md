@@ -1,5 +1,7 @@
-# Member/s:
+# Assignment 1 - Zoo
+
+### Member/s:
 Jerson Salazar
 
-# Github Username
+### Github username:
 jersonsalazar
