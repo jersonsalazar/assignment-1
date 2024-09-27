@@ -7,3 +7,4 @@ Jerson Salazar
 jersonsalazar
 
 ### Github Pages home website: https://jersonsalazar.github.io/
+### "Assignment 1 - Zoo" website: https://jersonsalazar.github.io/assignment-1/
