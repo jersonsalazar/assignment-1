@@ -6,4 +6,4 @@ Jerson Salazar
 ### Github username:
 jersonsalazar
 
-### Github Pages home website: (https://jersonsalazar.github.io/)
+### Github Pages home website: https://jersonsalazar.github.io/
